@@ -17,7 +17,6 @@
 .container{
     width: calc(100% -120px);
     margin: auto;
-    background-color: #fff;
 }
 a{
     text-decoration: none;
