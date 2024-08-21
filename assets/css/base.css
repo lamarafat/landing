@@ -27,7 +27,7 @@ a {
 ul {
     list-style-type: none;
 }
-.hrader .auth a {
+.header .auth a {
     border-radius: 4px;
-    padding: 20px 5px;
+    padding: 5px 20px;
 }
