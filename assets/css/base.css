@@ -27,7 +27,7 @@ a {
 ul {
     list-style-type: none;
 }
-.header .auth a {
+.header .auth a , .begin .buttons .register , .course-description a{
     border-radius: 4px;
     padding: 5px 20px;
 }
